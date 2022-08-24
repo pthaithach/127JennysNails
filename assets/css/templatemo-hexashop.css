@@ -172,7 +172,7 @@ body {
   display: inline-block;
   font-weight: 600;
   transition: all .3s;
-  background: #cf14b6;
+  background: #bf4630;
 }
 .color-gold a:hover{
   background: #fff !important;
@@ -182,13 +182,13 @@ body {
 }
 
 .main-border-button.color-gold a:hover {
-  background-color: #820073 !important;
+  background-color: #e3563c  !important;
   /*border: 1px solid #a2505a;*/
   color: #fff;
 }
 
 .main-border-button a:hover {
-  background-color: #aa0098;
+  background-color: #e3563c;
   color: #fff;
 }
 
@@ -354,7 +354,7 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #a336a1 !important;
+  color: #bf4630  !important;
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -709,7 +709,7 @@ banner
 }
 
 .main-banner .left-content .inner-content h4 {
-  color: #ff97fd ;
+  color: #ff7258;
   margin-top: -10px;
   font-size: 60px;
   font-weight: 300;
@@ -773,7 +773,7 @@ banner
   bottom: 15px;
   text-align: center;
   /*background-color: rgba(197,166,43,.95);*/
-    background-color: #68125f;
+    background-color: #854c44;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s;
@@ -1624,7 +1624,7 @@ footer .under-footer a {
 }
 
 footer .under-footer a:hover {
-  color: #a30090;
+  color: #ff6549;
 }
 
 
